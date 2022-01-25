@@ -1,0 +1,20 @@
+$nav-size: 40px;
+
+#home {
+  background-color: #FAF2C3;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+nav {
+  height: $nav-size !important;
+}
+
+#river-top {
+  transform: rotate(180deg);
+}
+
+.sep {
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
